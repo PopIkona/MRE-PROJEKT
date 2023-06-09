@@ -5,5 +5,8 @@ Naredila sva avtomatske brisalce za avtomobil s pomočjo vodnega senzorja. Brisa
 ## KOSOVNICA
 
 
+![Posnetek zaslona 2023-06-09 090857](https://github.com/PopIkona/MRE-PROJEKT/assets/129844304/e7a23b5b-83b2-4949-be94-d0a74dcd7105)
 
-![Posnetek zaslona 2023-06-09 083257](https://github.com/PopIkona/MRE-PROJEKT/assets/129844304/64ae83cc-ac83-44c5-87fe-a2af1acc6b44)
+
+
+## SHEMA
