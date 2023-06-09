@@ -10,3 +10,6 @@ Naredila sva avtomatske brisalce za avtomobil s pomočjo vodnega senzorja. Brisa
 
 
 ## SHEMA
+
+
+![Posnetek zaslona 2023-06-09 091100](https://github.com/PopIkona/MRE-PROJEKT/assets/129844304/743b19fc-107a-4e28-a166-aa804fba14bb)
