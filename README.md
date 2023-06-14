@@ -19,7 +19,7 @@ Veličine se morajo izpisati na primernem LCD zaslonu ali OLED prikazovalniku v 
 
 
 ## OPIS IZDELKA
-Naredila sva avtomatske brisalce za avtomobil s pomočjo vodnega senzorja. Brisalce nam predstavlja servo motor. LCD pa sva uporabila za izpis nivoja vode (high, low, medium), ko pa vodni senzor ne zazna nič vode pa LCD izpiše eampty. Vezje pa sva napajala s pomočjo baterije 9 V.
+Naredila sva avtomatske brisalce za avtomobil s pomočjo vodnega senzorja. Brisalce nam predstavlja servo motor. LCD pa sva uporabila za izpis nivoja vode (high, low, medium), ko pa vodni senzor ne zazna nič vode pa LCD izpiše eampty. Vezje pa sva napajala s pomočjo baterije 9 V. Merjenje najinega projekta pa je v bistvu prisotnost vode.
 
 ## KOSOVNICA
 
