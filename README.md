@@ -1,6 +1,6 @@
 # MRE-PROJEKT
 ## NAVODILA
-Naredila sva avtomatske brisalce za avtomobil s pomočjo vodnega senzorja. Brisalce nam predstavlja servo motor. LCD pa sva uporabila za izpis nivoja vode (high, low, medium).
+Naredila sva avtomatske brisalce za avtomobil s pomočjo vodnega senzorja. Brisalce nam predstavlja servo motor. LCD pa sva uporabila za izpis nivoja vode (high, low, medium), ko pa vodni senzor ne zazna nič vode pa LCD izpiše eampty.
 
 ## KOSOVNICA
 
