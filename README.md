@@ -22,3 +22,8 @@ Naredila sva avtomatske brisalce za avtomobil s pomočjo vodnega senzorja. Brisa
 https://github.com/PopIkona/MRE-PROJEKT/assets/129844304/0c180276-429d-4bbb-90a4-ce3606ecba67
 
 
+
+## KOMENTAR
+Vaje nama ni uspelo dokončati v celoti, saj sva naročila premajhno ohišje. Zmanjkalo nama je časa, da bi naročila novega. To sva poizkusila izboljšati s spremembo arduina, uno sva zamenjala za nano. Prikazano je delovanje, vendar izven ohišja. Pri projektu nisva potrebovala nobenih izračunov, zato jih nisva niti priložila. S samimi komponentami nisva imela nobenih težav. Navdušena sva bila z delovanjem vodnega senzorja, ki je uspel zaznavati že zelo majhne količine vode. Ni se nama pa dopadel mehanizem servo motorja, saj ima v vsakem primeru nekaj zamika. Zamisel je bila odlična, vendar nama je ni uspelo speljati do konca.
+
+
