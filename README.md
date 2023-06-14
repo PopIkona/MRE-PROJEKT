@@ -1,6 +1,25 @@
 # MRE-PROJEKT
 ## NAVODILA
-Naredila sva avtomatske brisalce za avtomobil s pomočjo vodnega senzorja. Brisalce nam predstavlja servo motor. LCD pa sva uporabila za izpis nivoja vode (high, low, medium), ko pa vodni senzor ne zazna nič vode pa LCD izpiše eampty.
+S pomočjo Arduina in ustreznih senzorjev ter vezja skonstruirajte samostojno napravo za merjenje in prikaz izbrane fizikalne veličine:
+
+a) Temperatura in vlago(v °C in %)
+b) Sila (v N)
+c) Tlak v tekočini (v Bar),
+d) Vlažnost zemlje/zraka (v %),
+e) Osvetljenost/svetilnost (v Lux),
+f) Jakost mag. polja (B, H),
+g) Detekcijo kovine/snovi (da/ne),
+h) Hitrost/smer vetra (km/h, m/s, vozlov),
+i) Razdalja (cm),
+j) Pospeška (g, 2g, 4g, 8g),
+k) Kota (v °).
+l) drugo ...
+
+Veličine se morajo izpisati na primernem LCD zaslonu ali OLED prikazovalniku v realnem času in imeti usterzne enote. 
+
+
+## OPIS IZDELKA
+Naredila sva avtomatske brisalce za avtomobil s pomočjo vodnega senzorja. Brisalce nam predstavlja servo motor. LCD pa sva uporabila za izpis nivoja vode (high, low, medium), ko pa vodni senzor ne zazna nič vode pa LCD izpiše eampty. Vezje pa sva napajala s pomočjo baterije 9 V.
 
 ## KOSOVNICA
 
